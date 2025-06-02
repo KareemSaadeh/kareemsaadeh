@@ -1,10 +1,19 @@
+<!-- Palestine-themed Background Container -->
 <div align="center">
-  
-# 💫 Hi there, I'm Kareem Saadeh! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Computer+Engineering+Student;Building+the+Future+with+Code" alt="Typing SVG" />
+<!-- Palestine Flag Background - Animated Giphy Flag -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnczanoxOHIycnA4M3E4Nm9zbzlldjM1d3hldnRhY2xwcDFkOG1rbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8c4zSICCI2BTDHco2j/giphy.gif" alt="Waving Palestine Flag" width="60%" style="max-height:80px; border-radius: 8px;" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=kareem-saadeh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+# <span style="color: #007A3D;">💫 Hi there, I'm Kareem Saadeh! 🇵🇸</span>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CE1126&center=true&vCenter=true&width=700&lines=🇵🇸+Palestinian+Developer;Full+Stack+Developer;AI+Enthusiast;Computer+Engineering+Student;Building+the+Future+with+Code;Free+Palestine+🕊️" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=KareemSaadeh&label=Profile%20views&color=007A3D&style=for-the-badge" alt="Profile Views" />
+
+### 🇵🇸 ✨ From Palestine with Love ✨ 🇵🇸
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=CE1126&center=true&vCenter=true&width=500&lines=فلسطين+حرة+🇵🇸;Free+Palestine+🕊️;من+فلسطين+بكل+حب" alt="Palestine Typing SVG" />
 
 </div>
 
@@ -24,16 +33,22 @@
 
 ⚡ **Fun Fact:** Computer Engineering student at Birzeit University with hands-on industry experience
 
+🇵🇸 **Based in:** Palestine 🕊️ | 🗣️ **Languages:** Arabic (Native) & English (Fluent)
+
 ---
 
 <div align="center">
 
 ## 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k4g) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kareemSaadeh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kareem_saadeh_ps/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.saadeh.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem-saadeh)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/k4g)
+
+### 🇵🇸 Palestine Pride 🇵🇸
+![Palestine](https://img.shields.io/badge/🇵🇸_Palestine-CE1126?style=for-the-badge&logoColor=white)
+![Free Palestine](https://img.shields.io/badge/Free_Palestine-007A3D?style=for-the-badge&logo=peace&logoColor=white)
+![From Palestine](https://img.shields.io/badge/من_فلسطين-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -93,11 +108,10 @@
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kareem-saadeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-saadeh&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KareemSaadeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KareemSaadeh&theme=tokyonight&hide_border=true)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-saadeh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-saadeh&theme=tokyo-night&hide_border=true&area=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemSaadeh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -107,7 +121,7 @@
 
 ## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=kareem-saadeh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KareemSaadeh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=6)
 
 </div>
 
@@ -130,7 +144,7 @@
 
 ## 📈 Contribution Activity
 
-![Snake animation](https://github.com/kareem-saadeh/kareem-saadeh/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KareemSaadeh&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 
@@ -140,12 +154,19 @@
 
 ### 💙 Thanks for visiting! Let's build something amazing together! 
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=kareem-saadeh&icon=5&color=6)
+[![](https://visitcount.itsvg.in/api?id=KareemSaadeh&icon=2&color=1)](https://visitcount.itsvg.in)
+
+### 🇵🇸 ✊ Stand with Palestine ✊ 🇵🇸
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=CE1126&center=true&vCenter=true&width=400&lines=🇵🇸+فلسطين+في+القلب+🇵🇸;Palestine+in+the+Heart+❤️;Free+Palestine+Forever+🕊️" alt="Palestine Heart SVG" />
+
+![Palestine Flag](https://img.shields.io/badge/🇵🇸_فلسطين_حرة-CE1126?style=for-the-badge&logoColor=white)
+![Support Palestine](https://img.shields.io/badge/Support_Palestine-007A3D?style=for-the-badge&logoColor=white)
+![End Occupation](https://img.shields.io/badge/End_Occupation-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/kareem-saadeh">Kareem Saadeh</a></i>
+  <i>⭐️ From <a href="https://github.com/KareemSaadeh">Kareem Saadeh</a></i>
 </div>
